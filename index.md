@@ -4,17 +4,16 @@ I am a drivem full stack web developer passionate about people and productivity.
 
 
 ## Memory Game
+My first shot at jQuery JavaScript DOM manipulation. In a 4 day sprint, I was able to utilize freshly learned skills in DOM manipulation without using any outside packages. From this project, I learned the importance of pseudocode, adding notes within my code, and creating reusable functions.
+
 ## Ewokagram
+In this 4 day sprint, I spent two weeks learning brand new material such as PostgreSQL, Node, Express, and how to handle promises. From these I was able to build a web-based photo app inspired by Instagram. To handle photo storage, I used Amazon S3.
+
 ## Ewokese Messaging App
-## Movie List
+Another 4 day sprint project built with a group of 3. Through this project, we utilized git branching, group communication and assignment after two weeks of learning React, user authentication, user stories, and more. 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+## [Movie List]()
+A React Native mobile application built in a 7 day sprint. With no prior experience working with mobile applications, I was able to build an app that allows the user to search for a movie and find an online location to stream it. This app uses Firebase, Axios, and the API Utelly.
 
 [Link](url) and ![Image](src)
 ```
