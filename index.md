@@ -19,4 +19,7 @@ A React Native mobile application built in a 7 day sprint. With no prior experie
 ### Contact
 
 **Phone:** 641-373-2054
+
 **Email:** liekwegmedia@gmail.com
+
+**[Resume](https://drive.google.com/open?id=1Tk33-Rq61OBWPV8fPkI8pr9-KWsBfBeR)**
