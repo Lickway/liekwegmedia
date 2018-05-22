@@ -22,4 +22,4 @@ A React Native mobile application built in a 7 day sprint. With no prior experie
 
 **Email:** liekwegmedia@gmail.com
 
-**[Resume](https://drive.google.com/open?id=1Tk33-Rq61OBWPV8fPkI8pr9-KWsBfBeR)**
+**[Resume](https://drive.google.com/file/d/1zj1_aXit7YhGEDQSpxMtN4UlVzvOVs1N/view?usp=sharing)**
